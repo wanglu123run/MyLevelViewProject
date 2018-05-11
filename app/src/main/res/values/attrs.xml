@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="MyLevelView">
-        <attr name="sbv_segment_endcolor" format="color"/>
         <attr name="mRadius" format="dimension"/>
         <attr name="buttomTextSizeDefault" format="dimension"/>
         <attr name="buttomTextSizeSelected" format="dimension"/>
