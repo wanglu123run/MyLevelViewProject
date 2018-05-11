@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyLevelView">
+        <attr name="sbv_segment_endcolor" format="color"/>
+        <attr name="mRadius" format="dimension"/>
+        <attr name="buttomTextSizeDefault" format="dimension"/>
+        <attr name="buttomTextSizeSelected" format="dimension"/>
+        <attr name="buttomTextColorSelected" format="color"/>
+        <attr name="buttomTextColorDefault" format="color"/>
+        <attr name="bottomTextMarginTop" format="dimension"/>
+
+        <attr name="topTextSizeDefault" format="dimension"/>
+        <attr name="topTextSizeSelected" format="dimension"/>
+        <attr name="topTextColorSelected" format="color"/>
+        <attr name="topTextColorDefault" format="color"/>
+        <attr name="topTextMarginTop" format="dimension"/>
+
+        <attr name="viewBackground" format="color"/>
+        <attr name="progressColor" format="color"/>
+
+        <attr name="noneColor" format="color"/>
+        <attr name="noneCircleRadius" format="dimension"/>
+        <attr name="progressHeight" format="dimension"/>
+
+    </declare-styleable>
+</resources>
